@@ -1,4 +1,4 @@
-## Project 2: Particle Catalogue
+## Particle Catalogue
 Compile line: 
 `g++ -g particle.cpp boson.cpp lepton.cpp quark.cpp decay.cpp container.cpp fourmomentum.cpp main.cpp -o particle-catalogue.exe -std=gnu++17`
 
